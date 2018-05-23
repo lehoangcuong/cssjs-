@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://bit.ly/2KJyNNV';
+	var url_popup = 'http://bannhadatsaigon.net/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
