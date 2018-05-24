@@ -259,6 +259,10 @@ padding: 19.7px;
 z-index: 9;
 }
 
+ul.menu > li > a :hover{
+	color: :white;
+}
+
 #menu-box > nav > ul > li > a:hover {
 background: #ab3f0a;
 }
