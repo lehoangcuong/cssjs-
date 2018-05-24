@@ -253,13 +253,13 @@ list-style:none;
 ul.menu > li > a {
 font-size: 15px;
 text-transform: uppercase;
-color: #FFF;
+color: #8a2f04;
 padding: 19.7px;
 z-index: 9;
 }
 
 #menu-box > nav > ul > li > a:hover {
-background: #2ecc71;
+background: #ab3f0a;
 }
 
 ul.menu > li.current-menu-item > a, ul.menu > li.current_page_item > a, ul.menu > li.current-menu-ancestor > a, ul.menu > li.current-post-ancestor > a {
@@ -794,7 +794,7 @@ font-weight:light;
 
 
 .footer {  float: left;  width: 33%;  }
-.footer h2 {  color: #ddd;  font-size: 19px;  font-weight: normal;  margin-bottom: 12px;  text-transform: none;  }
+.footer h2 {  color: #522203;  font-size: 19px;  font-weight: normal;  margin-bottom: 12px;  text-transform: none;  }
 .footer .widget{  clear: both;  font-size: 16px;  line-height: 26px;  margin: 15px 10px 25px;  }
 .footer ul{ margin:0; padding:0; list-style:none; }
 .footer li{ list-style:none; margin: 0;  padding: 0 0 5px;  text-transform: capitalize;  }
