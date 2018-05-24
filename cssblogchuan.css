@@ -130,8 +130,8 @@ body#layout,body#layout .ct-wrapper{max-width:800px}
 **************************************/
 div#header-layout-2 {
 width: 100%;
-background: #ecf0f1;
-border-top: 4px solid #e74c3c;
+background: #fded27b8;
+border-top: 4px solid #fded27b8;
 display: inline-block;
 }
 
@@ -789,7 +789,7 @@ Footer CSS
 background: #fbfbb9;
 width: 100%;
 color: #653207;
-border-top: 5px solid #e74c3c;
+border-top: 5px solid #fcff3a;
 border-bottom: 1px solid #27282E;
 font-weight:light;
 }
@@ -802,10 +802,7 @@ font-weight:light;
 .footer li{ list-style:none; margin: 0;  padding: 0 0 5px;  text-transform: capitalize;  }
 
 .footer-credits {
-background: #9e6105;
-color: #f5f125;
-font-size: 14px;
-padding: 18px 0;
+background: #9e6105;color: #f5f125;font-size: 14px;padding: 18px 0;
 }
 .footer-credits p{margin-bottom:0;text-align:center;}
 
