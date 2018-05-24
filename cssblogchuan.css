@@ -253,6 +253,7 @@ list-style:none;
 ul.menu > li > a {
 font-size: 15px;
 text-transform: uppercase;
+font-weight: bold;
 color: #8a2f04;
 padding: 19.7px;
 z-index: 9;
@@ -282,13 +283,13 @@ opacity: 1;
 
 
 ul.menu ul {
-background:#2c3e50;
+background:#8c3d05;
 display:none;
 position: absolute;
 width: 190px;
 line-height: 1.785em;
 left: 0;
-border-bottom: 5px solid #2c3e50;
+border-bottom: 5px solid #8c3d05;
 padding: 6px 0 0;
 margin: 0;
 z-index: 10;
@@ -306,9 +307,9 @@ text-transform: uppercase;
 padding: 9px 20px 8px;
 }
 ul.menu ul li a:hover {
-    background: #2ecc71;
+    background: #9c500f;
     color: #fff;
-    font-weight: 400;
+    font-weight: bold;
 }
 
 ul.menu > li > ul > li:first-child > a:before {
@@ -325,7 +326,7 @@ border-color: transparent transparent #3D3D3D transparent;
 
 
 ul.menu ul li:first-child {
-border-top: 5px solid #2c3e50;
+border-top: 5px solid #7b4809;
 }
 ul.menu ul li {
 padding: 0 5px;
